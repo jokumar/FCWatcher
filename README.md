@@ -1,6 +1,7 @@
 # FCWatcher
 Copying file to Container from local drives with every file change 
 
+== Overview 
 
 - FCWatcher will watch the file changes and trigger events which will copy the file to the container .
 - User dont need to write specific commands to copy files like jsp and htmls to a running server. 
